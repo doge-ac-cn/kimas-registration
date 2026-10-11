@@ -16,4 +16,6 @@
 
 **Timeline**: registered 2026-10-12 (see `commitments.txt` generation time and OpenTimestamps proofs). Seal opening 2027-01-04. Preprint target 2027-02-15 to 2027-02-21, at which time the full registration documents are published here.
 
+**M0 freeze (2026-10-12)**: `commitments.txt` additionally commits the post-freeze final versions (`SEAL-m0-final.md`, `preregistration-m0-final.md` — documents themselves private). `.ots` proofs for all committed files are included; run `ots verify <file>.ots` after Bitcoin confirmation.
+
 **License**: the commitment texts are CC0. (No code or data in this repository.)
