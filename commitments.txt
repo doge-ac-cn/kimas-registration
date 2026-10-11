@@ -12,3 +12,5 @@ ae4779536c598bad4c9c53a97f02e1f10a9fa57c7c16ab6cca2930dc27fc464f  osf_registrati
 
 5c6d94899b495a33e5af605a2ef14f077edcc5436ffa698e5ff5825afec0d555  SEAL-m0-final.md  # M0 final seal manifest & integrity statement
 ac1e615a300a674c2040d075e678df354e06898c079f5e2818839b47df224b8e  preregistration-m0-final.md  # M0 frozen preregistration (incl. three amendments)
+1071815013db3a76cb5c3d32b243a5ea1e9d5e7777178081573a5105a2b47eea  AMENDMENT-1.md
+304f83162f2109bb5807fff6d839ba9fb9c323862f7fa9c55a4de638d6954335  AMENDMENT-1.md.ots
