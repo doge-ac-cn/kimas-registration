@@ -1,0 +1,9 @@
+# KiMAS registration commitments — SHA-256
+
+# Generated: 2026-10-11T21:37:55.638275
+# These hashes commit to the full registration documents held privately.
+# Full documents will be published at preprint submission and verified against these hashes.
+
+ae4779536c598bad4c9c53a97f02e1f10a9fa57c7c16ab6cca2930dc27fc464f  osf_registration_v1.md  # Complete confirmatory analysis plan (sealed-test endpoints, frozen parameters, data versions)
+82d4b61e340e2182a0eae4f2f4ccd1e2ac8ed4f9a4c1fd610c5b2356162a5740  preregistration.md  # Development-phase registration incl. four-arm comparison spec and amendment log
+8718602ed305118dc624ea5ff2b7f32fc1fa8e34f72aed6ca1c440427a705ca0  SEAL.md  # Data seal manifest: dataset versions, archive hashes, integrity statement
